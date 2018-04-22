@@ -1,0 +1,26 @@
+{
+  "name": "raspi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukulramchandani/raspi-things.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukulramchandani/raspi-things/issues"
+  },
+  "homepage": "https://github.com/mukulramchandani/raspi-things#readme",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
+    "aws-sdk": "^2.224.1",
+    "onoff": "^1.2.0",
+    "pi-gpio": "0.0.8",
+    "rpi-gpio": "^0.9.1"
+  }
+}
