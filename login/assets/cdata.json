@@ -1,0 +1,317 @@
+[
+  {
+    "Year": "1950-51",
+    "Domestic": 12.6,
+    "Commercial": 7.5,
+    "Industry": 62.6,
+    "Traction": 7.4,
+    "Agriculture": 3.9,
+    "Others": 6
+  },
+  {
+    "Year": "1960-61",
+    "Domestic": 10.7,
+    "Commercial": 6.1,
+    "Industry": 69.4,
+    "Traction": 3.3,
+    "Agriculture": 6,
+    "Others": 4.5
+  },
+  {
+    "Year": "1970-71",
+    "Domestic": 8.8,
+    "Commercial": 5.9,
+    "Industry": 67.6,
+    "Traction": 3.2,
+    "Agriculture": 10.2,
+    "Others": 4.3
+  },
+  {
+    "Year": "1980-81",
+    "Domestic": 11.2,
+    "Commercial": 5.7,
+    "Industry": 58.4,
+    "Traction": 2.7,
+    "Agriculture": 17.6,
+    "Others": 4.4
+  },
+  {
+    "Year": "1981-82",
+    "Domestic": 11.6,
+    "Commercial": 5.8,
+    "Industry": 58.8,
+    "Traction": 2.8,
+    "Agriculture": 16.8,
+    "Others": 4.2
+  },
+  {
+    "Year": "1982-83",
+    "Domestic": 12.7,
+    "Commercial": 6.1,
+    "Industry": 55.4,
+    "Traction": 2.8,
+    "Agriculture": 18.6,
+    "Others": 4.4
+  },
+  {
+    "Year": "1983-84",
+    "Domestic": 12.9,
+    "Commercial": 6.4,
+    "Industry": 55.8,
+    "Traction": 2.6,
+    "Agriculture": 17.8,
+    "Others": 4.5
+  },
+  {
+    "Year": "1984-85",
+    "Domestic": 13.6,
+    "Commercial": 6.1,
+    "Industry": 55.2,
+    "Traction": 2.5,
+    "Agriculture": 18.4,
+    "Others": 4.2
+  },
+  {
+    "Year": "1985-86",
+    "Domestic": 14,
+    "Commercial": 5.9,
+    "Industry": 54.5,
+    "Traction": 2.5,
+    "Agriculture": 19.1,
+    "Others": 4
+  },
+  {
+    "Year": "1986-87",
+    "Domestic": 14.2,
+    "Commercial": 5.7,
+    "Industry": 51.7,
+    "Traction": 2.4,
+    "Agriculture": 21.7,
+    "Others": 4.3
+  },
+  {
+    "Year": "1987-88",
+    "Domestic": 15.2,
+    "Commercial": 6.1,
+    "Industry": 47.5,
+    "Traction": 2.5,
+    "Agriculture": 24.2,
+    "Others": 4.5
+  },
+  {
+    "Year": "1988-89",
+    "Domestic": 15.5,
+    "Commercial": 6.2,
+    "Industry": 47.1,
+    "Traction": 2.3,
+    "Agriculture": 24.3,
+    "Others": 4.6
+  },
+  {
+    "Year": "1989-90",
+    "Domestic": 16.9,
+    "Commercial": 5.4,
+    "Industry": 46,
+    "Traction": 2.3,
+    "Agriculture": 25.1,
+    "Others": 4.3
+  },
+  {
+    "Year": "1990-91",
+    "Domestic": 16.8,
+    "Commercial": 5.9,
+    "Industry": 44.2,
+    "Traction": 2.2,
+    "Agriculture": 26.4,
+    "Others": 4.5
+  },
+  {
+    "Year": "1991-92",
+    "Domestic": 17.3,
+    "Commercial": 5.8,
+    "Industry": 42,
+    "Traction": 2.2,
+    "Agriculture": 28.2,
+    "Others": 4.5
+  },
+  {
+    "Year": "1992-93",
+    "Domestic": 18,
+    "Commercial": 5.7,
+    "Industry": 40.9,
+    "Traction": 2.3,
+    "Agriculture": 28.7,
+    "Others": 4.4
+  },
+  {
+    "Year": "1993-94",
+    "Domestic": 18.2,
+    "Commercial": 5.9,
+    "Industry": 39.6,
+    "Traction": 2.3,
+    "Agriculture": 29.7,
+    "Others": 4.3
+  },
+  {
+    "Year": "1994-95",
+    "Domestic": 18.5,
+    "Commercial": 6.1,
+    "Industry": 38.6,
+    "Traction": 2.3,
+    "Agriculture": 30.5,
+    "Others": 4
+  },
+  {
+    "Year": "1995-96",
+    "Domestic": 18.7,
+    "Commercial": 6.1,
+    "Industry": 37.8,
+    "Traction": 2.3,
+    "Agriculture": 30.9,
+    "Others": 4.2
+  },
+  {
+    "Year": "1996-97",
+    "Domestic": 19.7,
+    "Commercial": 6.2,
+    "Industry": 37.2,
+    "Traction": 2.4,
+    "Agriculture": 30,
+    "Others": 4.5
+  },
+  {
+    "Year": "1997-98",
+    "Domestic": 20.3,
+    "Commercial": 6.5,
+    "Industry": 35.4,
+    "Traction": 2.3,
+    "Agriculture": 30.8,
+    "Others": 4.7
+  },
+  {
+    "Year": "1998-99",
+    "Domestic": 21,
+    "Commercial": 6.4,
+    "Industry": 33.9,
+    "Traction": 2.4,
+    "Agriculture": 31.4,
+    "Others": 4.9
+  },
+  {
+    "Year": "1999-00",
+    "Domestic": 22.2,
+    "Commercial": 6.3,
+    "Industry": 34.8,
+    "Traction": 2.6,
+    "Agriculture": 29.2,
+    "Others": 4.9
+  },
+  {
+    "Year": "2000-01",
+    "Domestic": 23.9,
+    "Commercial": 7.1,
+    "Industry": 34,
+    "Traction": 2.6,
+    "Agriculture": 26.8,
+    "Others": 5.6
+  },
+  {
+    "Year": "2001-02",
+    "Domestic": 24.7,
+    "Commercial": 7.5,
+    "Industry": 33.3,
+    "Traction": 2.5,
+    "Agriculture": 25.3,
+    "Others": 6.7
+  },
+  {
+    "Year": "2002-03",
+    "Domestic": 24.6,
+    "Commercial": 7.5,
+    "Industry": 33.9,
+    "Traction": 2.6,
+    "Agriculture": 24.9,
+    "Others": 6.5
+  },
+  {
+    "Year": "2003-04",
+    "Domestic": 24.9,
+    "Commercial": 7.8,
+    "Industry": 34.5,
+    "Traction": 2.6,
+    "Agriculture": 24.1,
+    "Others": 6.1
+  },
+  {
+    "Year": "2004-05",
+    "Domestic": 24.8,
+    "Commercial": 8.1,
+    "Industry": 35.6,
+    "Traction": 2.5,
+    "Agriculture": 22.9,
+    "Others": 6.1
+  },
+  {
+    "Year": "2005-06",
+    "Domestic": 24.3,
+    "Commercial": 8.7,
+    "Industry": 36.8,
+    "Traction": 2.4,
+    "Agriculture": 21.9,
+    "Others": 5.9
+  },
+  {
+    "Year": "2006-07",
+    "Domestic": 24.4,
+    "Commercial": 8.8,
+    "Industry": 37.6,
+    "Traction": 2.4,
+    "Agriculture": 21.7,
+    "Others": 5.1
+  },
+  {
+    "Year": "2007-08",
+    "Domestic": 24,
+    "Commercial": 9.2,
+    "Industry": 37.5,
+    "Traction": 2.2,
+    "Agriculture": 20.6,
+    "Others": 6.5
+  },
+  {
+    "Year": "2008-09",
+    "Domestic": 24.7,
+    "Commercial": 10.2,
+    "Industry": 37.1,
+    "Traction": 2.2,
+    "Agriculture": 20.4,
+    "Others": 5.4
+  },
+  {
+    "Year": "2009-10",
+    "Domestic": 24.9,
+    "Commercial": 10.4,
+    "Industry": 36.7,
+    "Traction": 2.2,
+    "Agriculture": 21,
+    "Others": 4.8
+  },
+  {
+    "Year": "2010-11",
+    "Domestic": 25.2,
+    "Commercial": 10.4,
+    "Industry": 36.5,
+    "Traction": 2.2,
+    "Agriculture": 20.5,
+    "Others": 5.4
+  },
+  {
+    "Year": "Source: Ministry of power/Central Electricity Authority",
+    "Domestic": "",
+    "Commercial": "",
+    "Industry": "",
+    "Traction": "",
+    "Agriculture": "",
+    "Others": ""
+  }
+]
